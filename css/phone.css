@@ -1,0 +1,49 @@
+/* style when website view on phone */
+/* responsive css rules */
+
+/* navigaiton */
+
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a {
+    display: block;
+    text-decoration: none;
+    padding: 5px 10px;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+/* // */
+
+/* home section */
+
+
+/* // */
+
+/* services section */
+.services{
+    flex-direction: column;
+}
+.box img {
+    width: 502px;
+    height: 350px;
+  }
+/* // */
+
+/* clients section */
+#clients{
+    flex-direction: column;
+}
+
+/* // */
+
+/* contact section */
+
+
+/* // */
+
+/* footer */
+
+
+/* // */
